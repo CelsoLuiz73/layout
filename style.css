@@ -1,0 +1,19 @@
+header, footer{
+  height: 200px;
+  backgroud-color: #c9c9c9;
+}
+
+nav{
+  height: 30px;
+  background-color: #b22222;
+}
+
+section#news{
+  border: 1px solid #000;
+  height: 60%;
+}
+
+section#slider{
+  height: 150px;
+  background-color: #bc8f8f;
+}
